@@ -11,7 +11,7 @@ const app = express();
 // Simple CORS configuration - no credentials
 app.use(
   cors({
-    origin: "https://school.edsurance.in",
+    origin: "https://yoga.edsurance.in",
   })
 );
 
